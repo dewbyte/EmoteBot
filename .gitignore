@@ -6,6 +6,7 @@ defaultserver.json
 helper.txt
 node_modules/
 .VSCodeCounter/
+daemon/
 package-lock.json
 package.json
 animalvideosubmissions.json
