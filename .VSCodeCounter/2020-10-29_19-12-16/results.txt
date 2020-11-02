@@ -1,0 +1,38 @@
+Date : 2020-10-29 19:12:16
+Directory : d:\emoteBotFinal
+Total : 12 files,  1005 codes, 8 comments, 116 blanks, all 1129 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          5 |        538 |          0 |          2 |        540 |
+| JavaScript |          7 |        467 |          8 |        114 |        589 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------+------------+------------+------------+------------+------------+
+| path                                         | files      | code       | comment    | blank      | total      |
++----------------------------------------------+------------+------------+------------+------------+------------+
+| .                                            |         12 |      1,005 |          8 |        116 |      1,129 |
+| Handlers                                     |          6 |        445 |          3 |        108 |        556 |
++----------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                     | language   | code       | comment    | blank      | total      |
++----------------------------------------------+------------+------------+------------+------------+------------+
+| d:\emoteBotFinal\Handlers\CommandHandler.js  | JavaScript |        113 |          3 |          8 |        124 |
+| d:\emoteBotFinal\Handlers\Commands.js        | JavaScript |        208 |          0 |         62 |        270 |
+| d:\emoteBotFinal\Handlers\EmoteHandler.js    | JavaScript |         15 |          0 |          4 |         19 |
+| d:\emoteBotFinal\Handlers\MessageHandler.js  | JavaScript |         40 |          0 |         13 |         53 |
+| d:\emoteBotFinal\Handlers\PresenceHandler.js | JavaScript |         11 |          0 |          4 |         15 |
+| d:\emoteBotFinal\Handlers\ServerHandler.js   | JavaScript |         58 |          0 |         17 |         75 |
+| d:\emoteBotFinal\animalvideos.json           | JSON       |         33 |          0 |          0 |         33 |
+| d:\emoteBotFinal\animalvideosubmissions.json | JSON       |         18 |          0 |          0 |         18 |
+| d:\emoteBotFinal\defaultServer.json          | JSON       |          9 |          0 |          0 |          9 |
+| d:\emoteBotFinal\index.js                    | JavaScript |         22 |          5 |          6 |         33 |
+| d:\emoteBotFinal\package-lock.json           | JSON       |        462 |          0 |          1 |        463 |
+| d:\emoteBotFinal\package.json                | JSON       |         16 |          0 |          1 |         17 |
+| Total                                        |            |      1,005 |          8 |        116 |      1,129 |
++----------------------------------------------+------------+------------+------------+------------+------------+
