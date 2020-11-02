@@ -4,3 +4,7 @@ settings.json
 login.json
 defaultserver.json
 helper.txt
+node_modules
+package-lock.json
+package.json
+animalvideosubmissions.json
