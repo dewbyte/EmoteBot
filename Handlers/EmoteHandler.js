@@ -13,13 +13,13 @@ function emoteHandler(stats, msg, type) {
     if (type != "dm") {
         for (em in settings[stats[2]].emotes) {
             if (msg.content.includes(settings[stats[2]].emotes[em].code)) {
-                matches.push(settings[stats[2]].emotes[em].code);
+                matches.push(settings[stats[2]].emotes[em]);
             }
         }
         if (matches.length != 0) {
             for(item in matches) {
-                if (item.length > highestlength[0]) {
-                    var highestlength = [item.length, item]
+                if (matches[item].code.length > highestlength[0]) {
+                    var highestlength = [matches[item].code.length, matches[item]]
                 }
             }
             var sendback = "https://static-cdn.jtvnw.net/emoticons/v1/" + highestlength[1].id.toString() + "/" + settings[stats[2]].defaultsize;
